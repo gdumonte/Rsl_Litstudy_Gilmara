@@ -22,6 +22,7 @@ Jupyter
 To use LitStudy from a Jupyter notebook, use the following command:
 
 pip install notebook
+
 jupyter notebook
 
 Virtual environment
