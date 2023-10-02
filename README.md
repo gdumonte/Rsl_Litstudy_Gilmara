@@ -1,5 +1,5 @@
 # Rsl_Litstudy_Gilmara
-Neste projeto utilizei a biiblioteca LitStudy para auxilar meu processo de revisão sistemática da literatura você pode encontrar o código na pasta:  \Rsl_Litstudy_Gilmara\Scripts\Notebooks
+Neste projeto utilizei a biiblioteca LitStudy para auxilar meu processo de revisão sistemática da literatura você pode encontrar o código na pasta:  https://github.com/gdumonte/Rsl_Litstudy_Gilmara/blob/main/Scripts/Notebooks/litstudyGilmara.ipynb
 
 LitStudy é um pacote Python que permite a análise de literatura científica no conforto de um notebook Jupyter. 
 Ele oferece a capacidade de selecionar publicações científicas e estudar seus metadados por meio do uso de visualizações, análise de rede e processamento de linguagem natural.
